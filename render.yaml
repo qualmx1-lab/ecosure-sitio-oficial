@@ -5,4 +5,6 @@ services:
     repo: https://github.com/qualmx1-lab/ecosure-sitio-oficial
     branch: main
     staticPublishPath: .
+    domains:
+      - ecosure.mx
     pullRequestPreviewsEnabled: false
